@@ -1,5 +1,6 @@
 ---
 title: Overview
+layout: default
 parent: Levels
 nav_order: 1
 ---

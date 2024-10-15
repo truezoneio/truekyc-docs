@@ -1,5 +1,6 @@
 ---
 title: Editing Levels
+layout: default
 parent: Levels
 nav_order: 4
 ---
