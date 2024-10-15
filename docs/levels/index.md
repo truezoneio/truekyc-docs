@@ -1,5 +1,6 @@
 ---
 title: Levels
+layout: default
 has_toc: true
 ---
 
