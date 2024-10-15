@@ -3,7 +3,11 @@ description: Need help using TrueKYC? Find out how to get started with customers
 theme: just-the-docs
 logo: "/assets/images/logo.png"
 favicon_ico: "/assets/images/favicon.ico"
-url: https://truekyc-docs.github.io
+url: "docs.truekyc.io"
+baseurl: ""
+repository: truezoneio/truekyc-docs
+
+permalink: pretty
 
 defaults:
   - scope:
