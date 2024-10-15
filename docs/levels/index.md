@@ -1,6 +1,8 @@
 ---
 title: Levels
 layout: default
+has_children: true
+has_toc: true
 ---
 
 # Levels
