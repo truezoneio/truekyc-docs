@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: TrueKYC Documentation - User Guide
+description: Need help using TrueKYC? Find out how to get started with customers, KYC verification, levels, transactions and more.
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
+logo: "/assets/images/logo_light.png"
+favicon_ico: "/assets/images/favicon.ico"
+url: https://truekyc-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  TrueKYC: https://truekyc.io
+  Truezone: https://truezone.io
