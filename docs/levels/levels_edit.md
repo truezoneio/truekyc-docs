@@ -1,7 +1,7 @@
 ---
 title: Editing Levels
 parent: Levels
-layout: default
+nav_order: 4
 ---
 
 ## Editing Existing Levels

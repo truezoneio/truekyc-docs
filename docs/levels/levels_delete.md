@@ -1,7 +1,7 @@
 ---
 title: Deleting Levels
 parent: Levels
-layout: default
+nav_order: 5
 ---
 
 ## Deleting a Level
