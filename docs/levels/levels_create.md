@@ -1,6 +1,5 @@
 ---
 title: Creating Levels
-layout: default
 parent: Levels
 nav_order: 3
 ---

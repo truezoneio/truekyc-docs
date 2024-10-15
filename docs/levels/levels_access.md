@@ -1,6 +1,5 @@
 ---
 title: Accessing Levels
-layout: default
 parent: Levels
 nav_order: 2
 ---

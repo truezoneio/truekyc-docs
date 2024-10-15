@@ -5,6 +5,16 @@ logo: "/assets/images/logo.png"
 favicon_ico: "/assets/images/favicon.ico"
 url: https://truekyc-docs.github.io
 
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
 aux_links:
   TrueKYC: https://truekyc.io
   Truezone: https://truezone.io
