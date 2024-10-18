@@ -1,6 +1,6 @@
 ---
-title: Remote Links
-nav_order: 6
+title: Remote Verification
+nav_order: 7
 ---
 
-# Remote Links
+# Remote Verification

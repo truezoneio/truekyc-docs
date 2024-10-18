@@ -1,16 +1,21 @@
 ---
 title: Editing Levels
 parent: Levels
-nav_order: 4
+nav_order: 3
 ---
 
 ## Editing Existing Levels
 
-### How to Edit a Level
+### Select a Level to Edit
+Go to the Levels page and find the level you want to edit.
+Click the **More options** button (three dots) next to the level and select **Edit**.
 
-1. **Select a Level to Edit**:
-   - In the Levels list, click the "Edit" button on the level you want to modify.
-2. **Modify Level Information**:
-   - You can change the fields, required documents, and verification methods.
-3. **Save Changes**:
-   - After making the necessary modifications, click "Save" to update the level.
+### Modify Level Information
+A modal will appear, allowing you to update:
+- **Level Name**
+- **Fields**: Add or remove required information fields.
+- **Documents**: Modify the required documents.
+- **Verification Methods**: Update the SMS or Email verifications.
+
+### Save changes
+After making the necessary modifications, click "Save" to update the level.

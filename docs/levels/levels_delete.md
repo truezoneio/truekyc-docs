@@ -1,14 +1,13 @@
 ---
 title: Deleting Levels
 parent: Levels
-nav_order: 5
+nav_order: 4
 ---
 
 ## Deleting a Level
 
-### How to Delete a Level
+### Open the Delete Confirmation
+In the Levels list, click the "Delete" button on the level you want to remove.
 
-1. **Open the Delete Confirmation**:
-   - In the Levels list, click the "Delete" button on the level you want to remove.
-2. **Confirm Deletion**:
-   - A confirmation modal will appear. Confirm the deletion to remove the level from the system.
+### Confirm Deletion
+A confirmation modal will appear. Confirm the deletion to remove the level from the system.

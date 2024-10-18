@@ -1,6 +1,6 @@
 ---
 title: Listing Customers
-parent: Customers
+parent: Customer Verification
 nav_order: 1
 ---
 

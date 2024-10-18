@@ -1,6 +1,9 @@
 ---
-title: Transactions
-nav_order: 5
+title: Transaction Monitoring
+nav_order: 6
 ---
 
-# Transactions
+# Transaction Monitoring
+
+## Transaction Types
+## Counterparties

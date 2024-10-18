@@ -1,6 +1,6 @@
 ---
 title: Verifying Customers
-parent: Customers
+parent: Customer Verification
 nav_order: 3
 ---
 

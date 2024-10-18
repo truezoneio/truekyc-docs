@@ -1,6 +1,6 @@
 ---
 title: Creating Customers
-parent: Customers
+parent: Customer Verification
 nav_order: 2
 ---
 
