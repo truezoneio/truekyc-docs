@@ -22,3 +22,14 @@ back_to_top_text: "Back to top"
 aux_links:
   TrueKYC: https://truekyc.io
   Truezone: https://truezone.io
+
+callouts:
+  note:
+    title: Note
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  warning:
+    title: Warning
+    color: red
