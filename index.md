@@ -13,7 +13,7 @@ nav_order: 1
 
 
 
-![TrueKYC Dashboard](https://truekyc.io/banner.webp){: .w-25 }
+![TrueKYC Dashboard](https://truekyc.io/images/banner.webp){: .w-25 }
 [Try now](https://truekyc.io){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Learn More](/docs/getting_started/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
