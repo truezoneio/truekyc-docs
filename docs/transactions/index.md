@@ -18,7 +18,3 @@ You can manage various transaction types, such as payments, transfers, and withd
 ### Counterparties
 
 Transactions can involve external parties known as counterparties. When you process transfers, the system tracks the counterparty details such as their name, country, ID number, and account details.
-
-For more details on managing transactions:
-- [Creating Transactions](/docs/transactions/create)
-- [Listing Transactions](/docs/transactions/listing)

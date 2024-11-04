@@ -17,23 +17,10 @@ The platform supports two main types of verifications:
 
 Customer verification ensures that the personal details and documents submitted by individual customers are accurate and compliant. The verification process includes reviewing personal information, approving or rejecting documents, and managing statuses such as pending, approved, or rejected.
 
-For more information, visit:
-- [Listing Customers](/docs/verifications/customers/listing/)
-- [Creating Customers](/docs/verifications/customers/creating/)
-- [Verifying Customers](/docs/verifications/customers/verifying/)
-
 ## Business Verification
 
 Business verification involves validating the legitimacy of a company, reviewing its documentation, and ensuring it meets the necessary compliance standards. This process includes verifying incorporation documents, tax numbers, and additional business information.
 
-For more information, visit:
-- [Listing Businesses](/docs/verifications/businesses/businesses_listing/)
-- [Creating Businesses](/docs/verifications/businesses/businesses_create/)
-- [Verifying Businesses](/docs/verifications/businesses/businesses_verify/)
-
 ## Remote Verifications
 
 The platform supports remote verifications via dynamically generated QR links, allowing customers and businesses to complete their verification from anywhere. This is especially useful for onboarding remote users or businesses.
-
-For more information, visit:
-- [Remote Verifications](/docs/verifications/remote/)
